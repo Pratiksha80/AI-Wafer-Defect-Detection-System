@@ -1,0 +1,8 @@
+Flask>=3.0
+opencv-python>=4.8
+matplotlib>=3.7
+numpy>=1.24
+Pillow>=10.0
+reportlab>=4.0
+tensorflow>=2.15
+Werkzeug>=3.0

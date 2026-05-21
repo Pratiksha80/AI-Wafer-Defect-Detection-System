@@ -1,0 +1,22 @@
+{
+  "total_wafers": 2,
+  "defect_counts": {
+    "Crack": 2,
+    "Scratch": 0,
+    "Spot": 0,
+    "Contamination": 0,
+    "Normal wafer": 0
+  },
+  "runs": [
+    {
+      "timestamp": "2026-05-21T04:48:03.679293+00:00",
+      "prediction": "Crack",
+      "confidence": 29.5
+    },
+    {
+      "timestamp": "2026-05-21T04:49:22.632290+00:00",
+      "prediction": "Crack",
+      "confidence": 32.5
+    }
+  ]
+}
